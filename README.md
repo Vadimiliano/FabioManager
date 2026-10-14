@@ -4,6 +4,9 @@
 A web application for warehouse accounting and order management, built for a real
 client — **FABIOBRUNO LLC**. Developed as my diploma project.
 
+## Screenshots
+Screenshots of the main screens are available in the [screenshots](screenshots/) folder.
+
 🎥 **Demo video:** https://vadimiliano.github.io
 
 ## Features
